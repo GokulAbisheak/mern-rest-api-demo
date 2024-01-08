@@ -89,7 +89,7 @@ I'll be using ES6, therefore I'm add the following code to `package.json`
 
     "type" : "module"
 
-After these steps, it should look like this,
+After these steps, it should look like this, <br/>
 ![image](https://github.com/GokulAbisheak/mern-rest-api-demo/assets/116421744/00b251a4-e3c0-42d8-b488-92a63a3aedee) 
 
 We need `express` package to run our server and we are going to use `cors` to restrict cross-origin requests. Enter the following command to install the packages.
